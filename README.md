@@ -1,4 +1,4 @@
-# Mera-CDN v1.1
+# Meta-CDN v1.1
 
 **Meta-CDN** — A minimalist yet powerful framework for understanding pressure, deformation, and steering in complex systems.
 
@@ -6,7 +6,7 @@ Born from real-time iterative testing, Mera-CDN helps analysts move beyond surfa
 
 ---
 
-## Why Mera-CDN?
+## Why Meta-CDN?
 
 Modern environments are high-fragmentation, low-trust, and full of narrative warfare. Traditional tools (SWOT, PESTLE, scenario planning) often miss **latent pressures**, **hidden actor incentives**, and **bias contamination**.
 
